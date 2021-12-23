@@ -104,5 +104,3 @@ yarn-error.log*
 *.vob
 *.wmv
 *.webm
-
-# End of https://www.toptal.com/developers/gitignore/api/images,video
