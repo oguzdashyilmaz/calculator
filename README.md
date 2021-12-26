@@ -1,10 +1,10 @@
-# calculator
+# Calculator
 
 > A Vue.js project
 
 ## Build Setup
 
-#### This is a simple calculator built with Vue.js in order to comprehend basics of the framework. Design is tried to immmitate calculators of Apple Mac.
+##### This is a simple calculator built with Vue.js in order to comprehend basics of the framework. Design is tried to immmitate calculators of Apple Mac.
 
 ``` bash
 # install dependencies
